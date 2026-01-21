@@ -15,7 +15,7 @@ Customer Segmentation | User Modeling & Analysis | Content Syndication | Data Vi
 Italian - Native | English - Full Professional Proficiency
 
 ### ✨ Get In Touch ✨
-- LinkedIn: [sara-m4gn1](https://www.linkedin.com/in/sara-m4gn1/)
+- LinkedIn: [in/sara-m4gn1](https://www.linkedin.com/in/sara-m4gn1/)
 - Email: [sara.m4gn1.data@gmail.com](mailto:sara.m4gm1.data@gmail.com)
 - GitHub: [Sara-Magni](https://github.com/Sara-Magni)
 
