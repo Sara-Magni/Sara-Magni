@@ -17,7 +17,7 @@ Italian - Native | English - Full Professional Proficiency
 ### ✨ Get In Touch ✨
 - LinkedIn: [in/sara-m4gn1](https://www.linkedin.com/in/sara-m4gn1/)
 - Email: [sara.m4gn1.data@gmail.com](mailto:sara.m4gm1.data@gmail.com)
-- GitHub: [Sara-Magni](https://github.com/Sara-Magni)
+- GitHub: [in/Sara-Magni](https://github.com/Sara-Magni)
 
 <!--
 **Sara-Magni/Sara-Magni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
