@@ -2,7 +2,7 @@
 
 **I'm a Data Analyst with 10+ years of UX Research expertise**.
 
-I extract value from data to support smarter decisions, better products, and deeper user understanding.
+I extract value from data to support smarter decisions, better products, and deeper user understanding by combining a strong analytical mindset, information design and tech skills.
 
 ### ✨ Tech Stack ✨
 **Data Analysis & Visualization**:
