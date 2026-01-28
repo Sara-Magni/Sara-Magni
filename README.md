@@ -2,14 +2,14 @@
 
 **I'm a Data Analyst with 10+ years of UX Research expertise**.
 
-I extract value from data to support smarter decisions, better products, and deeper user understanding by combining a strong analytical mindset, information design and tech skills.
+I extract **value from data** to support smarter decisions, better products, and deeper user understanding by combining a strong analytical mindset, information design and tech skills.
+
+### ✨ Core Competencies ✨
+Customer Segmentation | User Modeling & Analysis | Content Syndication | Data Visualization | Dashboard Design | Qualitative & Quantitative Research | Trend Analysis & Benchmarking
 
 ### ✨ Tech Stack ✨
 **Data Analysis & Visualization**:
 SQL | Python (Pandas, NumPy) | Tableau | Excel | Power BI | GA4 & BigQuery | Hotjar
-
-**Core Competencies:**
-Customer Segmentation | User Modeling & Analysis | Content Syndication | Data Visualization | Dashboard Design | Qualitative & Quantitative Research | Trend Analysis & Benchmarking
 
 ### ✨ Languages ✨
 Italian - Native | English - Full Professional Proficiency
