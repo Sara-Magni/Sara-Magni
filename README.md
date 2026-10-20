@@ -1,8 +1,10 @@
 # Ciao! 👋
 
-**I'm a Data Analyst with 10+ years of UX Research expertise**.
+I'm a **Data Analyst** with 10+ years of **UX Research expertise**.
 
-I extract **value from data** by combining a strong analytical mindset, user-centered design principles and tech skills.
+I extract value from data by combining a **strong analytical mindset**, **user-centered design principles**, and **tech skills**.
+
+I am **a researcher who safeguards data integrity**, and **an analyst who deeply understands human behavior**. I bridge the gap between **qualitative insights** and **quantitative precision**, balancing **user empathy** with **statistical rigor**.
 
 ### ✨ Core Competencies ✨
 Customer Segmentation | User Modeling & Analysis | Content Syndication | Data Visualization | Dashboard Design | Qualitative & Quantitative Research | Trend Analysis & Benchmarking
