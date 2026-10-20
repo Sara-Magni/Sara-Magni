@@ -1,6 +1,6 @@
-# Ciao! 👋
+# Ciao!
 
-I'm a **Data Analyst** with 10+ years of **UX Research expertise**.
+I'm a **Data Specialist** with 10+ years of **UX Research expertise**.
 
 I extract value from data by combining a **strong analytical mindset**, **user-centered design principles**, and **tech skills**.
 
